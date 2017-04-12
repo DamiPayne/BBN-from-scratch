@@ -8,5 +8,4 @@ You can play around with the number of hidden layers, learning rates  and epochs
 Hopefully this provides a great opportunity to understand some of the basic concepts involved in machine learning.
 
 ## Dependency
-numpy
-https://www.scipy.org/scipylib/download.html
+[numpy](https://www.scipy.org/scipylib/download.html) "how to install numpy"
