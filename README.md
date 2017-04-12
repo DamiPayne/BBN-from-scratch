@@ -1,5 +1,5 @@
 # BBN-from-scratch
-A guide on how to build a neural net in python with numpy.
+A guide on how to build a artificial neural net in python with numpy.
 I have included detailed step by step explanations for every step.
 
 We generate a set of random binary numbers and use neural nets to make an exclusive or (XOR) prediction.
