@@ -1,4 +1,4 @@
-# BPN-from-scratch
+# BPNN-from-scratch
 A guide on how to build a artificial neural net in python with numpy.
 With detailed step by step explanations for every step.
 
